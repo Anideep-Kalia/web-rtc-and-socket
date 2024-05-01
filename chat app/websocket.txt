@@ -1,0 +1,5 @@
+polling -> asking again and again
+
+web socket -> used when we don't have to close connection after req and response. duplex protocol
+
+more videos to watch by piyush garg
